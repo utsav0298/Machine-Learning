@@ -11,8 +11,8 @@ The dataset contains information about housing prices and features such as area,
 - Built and evaluated a linear regression model
 
 ## 📈 Results
-- R² Score: 0.82
-- Mean Absolute Error: 2.1
+- R² Score: 0.4038
+- Adjusted  R² : 0.3908
 
 ## 🛠️ Libraries Used
 - pandas
